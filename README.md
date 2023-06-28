@@ -1,11 +1,21 @@
 # dungeons-and-dragons
 
-Knowledgebase for local Dungeons &amp; Dragons world.
+База знань для кастомного світу Dungeons & Dragons (упрощена усна версія).
 
-#### Герои
+#### Герої
 
-- [София](/Heroes/Sofia.md)
-- [Лёва](/Heroes/Leva.md)
-- [Эбб](/Heroes/Ebby.md)
-- [Тупик](/Heroes/Tupik.md)
-- [Ванюша](/Heroes/Ivan.md)
+[🟢 Софія](/Heroes/Sofia.md)
+[🟢 Льова](/Heroes/Lyova.md)
+[🟢 Еб](/Heroes/Eb.md)
+[🟢 Тупик](/Heroes/Tupyk.md)
+[🟢 Ванюша](/Heroes/Vanyusha.md)
+
+[🔴 Гад](/Heroes/Gad.md)
+[🔴 Інокентій](/Heroes/Inokentiy.md)
+[🔴 Ірина](/Heroes/Iryna.md)
+[🔴 Едвард](/Heroes/Edward.md)
+[🔴 Іво](/Heroes/Ivo.md)
+
+#### Квести
+
+-
