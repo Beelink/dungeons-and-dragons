@@ -1,4 +1,4 @@
-# Ірина
+# 👵🏻 Ірина
 
 <img src="./Iryna.jpg" height="256">
 
